@@ -1,0 +1,13 @@
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\bin\Debug\netcoreapp3.1\lv5analiza.exe
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\bin\Debug\netcoreapp3.1\lv5analiza.deps.json
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\bin\Debug\netcoreapp3.1\lv5analiza.runtimeconfig.json
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\bin\Debug\netcoreapp3.1\lv5analiza.runtimeconfig.dev.json
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\bin\Debug\netcoreapp3.1\lv5analiza.dll
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\bin\Debug\netcoreapp3.1\lv5analiza.pdb
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\obj\Debug\netcoreapp3.1\lv5analiza.csprojAssemblyReference.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\obj\Debug\netcoreapp3.1\lv5analiza.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\obj\Debug\netcoreapp3.1\lv5analiza.AssemblyInfoInputs.cache
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\obj\Debug\netcoreapp3.1\lv5analiza.AssemblyInfo.cs
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\obj\Debug\netcoreapp3.1\lv5analiza.dll
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\obj\Debug\netcoreapp3.1\lv5analiza.pdb
+C:\Users\Mihael\Desktop\FERIT\RPPOON\lv5analiza\lv5analiza\obj\Debug\netcoreapp3.1\lv5analiza.genruntimeconfig.cache
